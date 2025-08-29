@@ -1,0 +1,1 @@
+# LinguaLocal-Real-Time-Translation-Interface-with-Local-LLM-Deployment
